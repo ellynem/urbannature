@@ -1,0 +1,38 @@
+﻿{
+    "Tiere": [
+        {
+            "Name": "Rotfuchs",
+            "Vorkommen": "Berlin",
+            "Art":,
+            "Lebensdauer": ,
+            "WarumGefährdet": "Lebensraumverlust und Wilderei",
+            "Besonderheiten": 
+        },
+        {
+            "Name": "Taube",
+            "Vorkommen": "Berlin",
+            "Art":,
+            "Lebensdauer":,
+            "WarumGefährdet": "Lebensraumverlust, Menschen",
+            "Besonderheiten":
+        }
+    ],
+    "Bäume": [
+        {
+            "Name": "Birke",
+            "Vorkommen": "xyz stück",
+            "Art":,
+            "Lebensdauer":,
+            "WarumGefährdet": "Abholzung, Klimawandel, Stadtboden",
+            "Besonderheiten":
+        },
+        {
+            "Name": "Ahorn",
+            "Vorkommen": "xyz Stück in Berlin",
+            "Art":,
+            "Lebensdauer":,
+            "WarumGefährdet": "Abholzung, Klimawandel, Stadtleben",
+            "Besonderheiten":
+        }
+    ]
+}
