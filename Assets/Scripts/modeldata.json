@@ -1,36 +1,56 @@
 ﻿{
-    "Tiere": [
+    "Säugetier": [
         {
             "Name": "Rotfuchs",
             "Vorkommen": "Berlin",
-            "Art":,
-            "Lebensdauer": ,
+            "Art": "Laubbaum",
+            "Lebensdauer":,
             "WarumGefährdet": "Lebensraumverlust und Wilderei",
-            "Besonderheiten": 
+            "Besonderheiten":
         },
         {
             "Name": "Taube",
             "Vorkommen": "Berlin",
-            "Art":,
+            "Art": "Laubbaum",
             "Lebensdauer":,
             "WarumGefährdet": "Lebensraumverlust, Menschen",
             "Besonderheiten":
         }
     ],
-    "Bäume": [
+    "Vogel": [
+        {
+            "Name": "Taube",
+            "Vorkommen": "Berlin",
+            "Art": "Laubbaum",
+            "Lebensdauer":,
+            "WarumGefährdet": "Lebensraumverlust, Menschen",
+            "Besonderheiten":
+        }
+    ],
+    "Insekten": [
+        {
+            "Name": "Schmetterling",
+            "Vorkommen": "Berlin",
+            "Art": "Laubbaum",
+            "Lebensdauer":,
+            "WarumGefährdet": "Lebensraumverlust, Menschen",
+            "Besonderheiten":
+        }
+    ],
+    "Baum": [
         {
             "Name": "Birke",
             "Vorkommen": "xyz stück",
-            "Art":,
-            "Lebensdauer":,
+            "Art":"Laubbaum",
+            "Lebensdauer":"80 Jahre",
             "WarumGefährdet": "Abholzung, Klimawandel, Stadtboden",
             "Besonderheiten":
         },
         {
             "Name": "Ahorn",
             "Vorkommen": "xyz Stück in Berlin",
-            "Art":,
-            "Lebensdauer":,
+            "Art": "Laubbaum",
+            "Lebensdauer":"80 Jahre",
             "WarumGefährdet": "Abholzung, Klimawandel, Stadtleben",
             "Besonderheiten":
         }
