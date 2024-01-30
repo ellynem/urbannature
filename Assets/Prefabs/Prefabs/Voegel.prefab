@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1725059585325475525}
   - component: {fileID: 2913304517263504571}
   m_Layer: 5
-  m_Name: "Vo\u0308gel"
+  m_Name: Voegel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
