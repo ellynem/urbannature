@@ -1066,7 +1066,7 @@ PrefabInstance:
     - target: {fileID: -6520898415906271509, guid: c9b7bb6ef37899349a71c277055cc3f8,
         type: 3}
       propertyPath: m_Name
-      value: Ahorn
+      value: Linde
       objectReference: {fileID: 0}
     - target: {fileID: -3442314638328792691, guid: c9b7bb6ef37899349a71c277055cc3f8,
         type: 3}
