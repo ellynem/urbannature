@@ -3,3 +3,4 @@
 *.tgz filter=lfs diff=lfs merge=lfs -text
 Assets/ARMaterials/Trees.fbx filter=lfs diff=lfs merge=lfs -text
 Assets/ARMaterials/Tree_V10_Final.obj filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
