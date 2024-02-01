@@ -1,0 +1,22 @@
+{
+    "Baeume": [
+        {
+            "Name": "Birke",
+            "Vorkommen": "Mehr als 15000 Baeumen in Berlin",
+            "Art":"Laubbaum",
+            "Lebensdauer":"bis zu 160 Jahre",
+            "WarumGefaehrdet": "Abholzung, Klimawandel, Stadtboden",
+            "Besonderheiten": "Die Birke ist ein Laubbaum, der fuer seine auffaellig weisse Rinde bekannt ist. Diese Rinde kann sich schuppen und gibt der Birke ein charakteristisches Aussehen. Birken sind typischerweise Pionierbaeume und koennen in verschiedenen Lebensraeumen gedeihen. Sie sind oft erste Siedler nach Waldbraenden oder auf Brachland. Die Blaetter der Birke sind dreieckig und haben eine helle, frische gruene Farbe. Die Birke spielt auch in einigen kulturellen und mythologischen Traditionen eine Rolle."
+
+        },
+        {
+            "Name": "Ahorn",
+            "Vorkommen": "Ungefähr 86200 Baeume in Berlin",
+            "Art": "Laubbaum",
+            "Lebensdauer":"200 Jahre durschnittlich",
+            "WarumGefaehrdet": "Abholzung, Klimawandel, Stadtleben",
+            "Besonderheiten": "Ahornbaeume sind Laubbaeume, die fuer ihre charakteristischen handfoermigen Blaetter und ihre vielseitige Verwendung bekannt sind. Die Blaetter des Ahorns haben normalerweise fuenf Lappen und eine auffaellige Ahornform. Ahornbaeume sind in verschiedenen Umgebungen heimisch und koennen eine beeindruckende Herbstfaerbung mit leuchtenden Rot-, Orange- und Gelbtoenen entwickeln. Der Ahorn ist auch bekannt fuer seine Fruechte, die als 'Fluegelnuesse' oder 'Ahornsamen' bezeichnet werden und mit dem Wind davongetragen werden. In einigen Kulturen symbolisiert der Ahorn Staerke und Ausdauer."
+
+        }
+    ]
+}
