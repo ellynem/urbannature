@@ -1,6 +1,9 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+=======
     "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-10.20.3.tgz",
+>>>>>>> 1e93e260f93a896bcfe8329f263b8666a2f707dd
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.ide.rider": "3.0.25",
     "com.unity.ide.visualstudio": "2.0.21",
@@ -11,9 +14,15 @@
     "com.unity.timeline": "1.7.5",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.1",
+<<<<<<< HEAD
+    "com.unity.xr-content.xr-sim-environments": "file:../ContentPackages/com.unity.xr-content.xr-sim-environments-1.0.0.tgz",
+    "com.unity.xr.arfoundation": "5.1.1",
+    "com.unity.xr.arkit": "5.1.1",
+=======
     "com.unity.xr.arcore": "5.1.2",
     "com.unity.xr.arfoundation": "5.1.1",
     "com.unity.xr.arkit": "5.1.2",
+>>>>>>> 1e93e260f93a896bcfe8329f263b8666a2f707dd
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

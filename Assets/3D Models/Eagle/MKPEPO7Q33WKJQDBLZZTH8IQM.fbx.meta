@@ -99,7 +99,11 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+<<<<<<< HEAD
+  avatarSetup: 1
+=======
   avatarSetup: 0
+>>>>>>> 1e93e260f93a896bcfe8329f263b8666a2f707dd
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0

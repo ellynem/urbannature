@@ -1,0 +1,96 @@
+﻿{
+    "Säugetiere": [
+        {
+            "Name": "Rotfuchs",
+            "Vorkommen in Berlin": "weit verbreitet",
+            "Art": "Fuchs",
+            "Lebensdauer": "5 - 10 Jahre in der Wildnis",
+            "Besonderheiten": "Rotebraunes Fell, anpassungsfähig in städtischen Gebieten",
+            "Status": "weit verbeitet",
+            "Gefährdung": "Lebensraumverlust und Wilderei"
+        },
+        {
+            "Name": "Wildschwein",
+            "Vorkommen in Berlin": "häufig",
+            "Art": "Schwein",
+            "Lebensdauer": "ca. 10 Jahre in freier Wildbahn",
+            "Besonderheiten": "Borstiges dunkles Fell",
+            "Status": "weit verbeitet",
+            "Gefährdung": "Nicht gefährdet"
+        },
+        {
+            "Name": "Großes Mausohr",
+            "Vorkommen in Berlin": "in bestimmten Gebieten vorhanden, aber selten",
+            "Art": "Fledertier",
+            "Lebensdauer": "bis zu 25 Jahre",
+            "Besonderheiten": "40 cm Flügelspannweite, größte Fledermausart in Berlin",
+            "Status": "stark gefährdet",
+            "Gefährdung": "Nahrungsmangel durch Insektensterben, Lebensraumverlust"
+        }
+    ],
+    "Vögel": [
+        {
+            "Name": "Stadtaube",
+            "Vorkommen in Berlin": "ca. 10.000",
+            "Art": "Taube",
+            "Lebensdauer": "normalerweise bis zu 10 Jahre, in Städten oft nur 2 - 3 Jahre",
+            "Besonderheiten": "Zahlreiche Gefiedervariationen, häufig grau mit rosa und grün schillerndem Hals",
+            "Status": "weit verbeitet",
+            "Gefährdung": "Konkurrenz, nicht artgerechte Nahrung, Tod oder Verletzung durch Taubenabwehr"
+        },
+        {
+            "Name": "Seeadler",
+            "Vorkommen in Berlin": "1 - 2 Revierpaare",
+            "Art": "Greifvogel",
+            "Lebensdauer": "bis zu 30 Jahre",
+            "Besonderheiten": "Dunkelbraunes Gefieder und weißer Schwanz",
+            "Status": "extrem selten",
+            "Gefährdung": "Lebensraumverlust, Vergiftung durch Bleimunition"
+        }
+    ],
+    "Insekten": [
+        {
+            "Name": "Vogelwicken-Bläuling",
+            "Vorkommen in Berlin": "in bestimmten Gebieten vorhanden, aber sehr selten",
+            "Art": "Schmetterling",
+            "Lebensdauer": "einige Wochen",
+            "Besonderheiten": "Blau-violette Flügel",
+            "Status": "vom Aussterben bedroht",
+            "Gefährdung": "Hohe Habitatansprüche, Entwässerung der Moore, Pestizideinsatz, Lebensraumverlust"
+        }
+    ],
+    "Bäume": [
+        {
+            "Name": "Birke",
+            "Vorkommen in Berlin": "ca. 12.000",
+            "Art": "Laubbaum",
+            "Lebensdauer": "Straßenbäume ca. 60 Jahre, im Wald bis zu 160 Jahre",
+            "Besonderheiten": "Weiß rissige Rinde und Blütenkätzchen",
+            "Gefährdung": "Abholzung, Klimawandel, Stadtbodenprobleme"
+        },
+        {
+            "Name": "Ahorn",
+            "Vorkommen in Berlin": "ca. 87.000",
+            "Art": "Laubbaum",
+            "Lebensdauer": "Straßenbäume ca. 60 Jahre, im Wald bis zu 200 Jahre",
+            "Besonderheiten": "Gezackte Blätter und geflügelte Samen",
+            "Gefährdung": "Abholzung, Klimawandel, Stadtbodenprobleme"
+        },
+        {
+            "Name": "Eiche",
+            "Vorkommen in Berlin": "ca. 12.000",
+            "Art": "Laubbaum",
+            "Lebensdauer": "Straßenbäume ca. 60 Jahre, im Wald bis zu 800 Jahre",
+            "Besonderheiten": "Trägt Eicheln, hat eine raue Rinde",
+            "Gefährdung": "Abholzung, Klimawandel, Stadtbodenprobleme"
+        },
+        {
+            "Name": "Linde",
+            "Vorkommen in Berlin": "ca. 150.000",
+            "Art": "Laubbaum",
+            "Lebensdauer": "Straßenbäume ca. 60 Jahre, im Wald bis zu 500 Jahre",
+            "Besonderheiten": "Herzförmige Blätter und duftende Blüten",
+            "Gefährdung": "Abholzung, Klimawandel, Stadtbodenprobleme"
+        }
+    ]
+}

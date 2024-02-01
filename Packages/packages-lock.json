@@ -1,5 +1,7 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+=======
     "com.ptc.vuforia.engine": {
       "version": "file:com.ptc.vuforia.engine-10.20.3.tgz",
       "depth": 0,
@@ -8,6 +10,7 @@
         "com.unity.ugui": "1.0.0"
       }
     },
+>>>>>>> 1e93e260f93a896bcfe8329f263b8666a2f707dd
     "com.unity.burst": {
       "version": "1.8.9",
       "depth": 1,
@@ -168,6 +171,19 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+    "com.unity.xr-content.xr-sim-environments": {
+      "version": "file:../ContentPackages/com.unity.xr-content.xr-sim-environments-1.0.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.unity.xr.arfoundation": "5.0.0"
+      }
+    },
+    "com.unity.xr.arfoundation": {
+      "version": "5.1.1",
+      "depth": 0,
+=======
     "com.unity.xr.arcore": {
       "version": "5.1.2",
       "depth": 0,
@@ -184,6 +200,7 @@
     "com.unity.xr.arfoundation": {
       "version": "5.1.2",
       "depth": 1,
+>>>>>>> 1e93e260f93a896bcfe8329f263b8666a2f707dd
       "source": "registry",
       "dependencies": {
         "com.unity.editorcoroutines": "1.0.0",
@@ -200,12 +217,20 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.arkit": {
+<<<<<<< HEAD
+      "version": "5.1.1",
+=======
       "version": "5.1.2",
+>>>>>>> 1e93e260f93a896bcfe8329f263b8666a2f707dd
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.editorcoroutines": "1.0.0",
+<<<<<<< HEAD
+        "com.unity.xr.arfoundation": "5.1.1",
+=======
         "com.unity.xr.arfoundation": "5.1.2",
+>>>>>>> 1e93e260f93a896bcfe8329f263b8666a2f707dd
         "com.unity.xr.core-utils": "2.1.0",
         "com.unity.xr.management": "4.0.1"
       },

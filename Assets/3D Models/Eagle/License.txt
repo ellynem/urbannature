@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 This model is free for Personal Use only (Students).
 
 Any use in commercial subject requires a Premium membership on RigModels.com
 https://rigmodels.com/premium.php
 
 Visit us for new daily models:
+=======
+This model is free for Personal Use only (Students).
+
+Any use in commercial subject requires a Premium membership on RigModels.com
+https://rigmodels.com/premium.php
+
+Visit us for new daily models:
+>>>>>>> 1e93e260f93a896bcfe8329f263b8666a2f707dd
 https://rigmodels.com/
