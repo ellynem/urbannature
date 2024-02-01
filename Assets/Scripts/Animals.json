@@ -1,0 +1,22 @@
+{
+    "Animals": [
+        { 
+            "Name": "Wildschwein",
+            "Vorkommen": "Berlin",
+            "Art": "Laubbaum",
+            "Lebensdauer": "7 bis 8 Jahre",
+            "WarumGefährdet": "Lebensraumverlust, Menschen",
+            "Besonderheiten": "Wildschweine sind in der Regel gesellig und leben in Gruppen, sogenannten Rotten. Sie sind Allesfresser und ernähren sich von Pflanzen, Wurzeln, Insekten und kleinen Wirbeltieren. Wildschweine haben eine starke Anpassungsfähigkeit an verschiedene Lebensräume, sind jedoch in städtischen Gebieten aufgrund von Konflikten mit Menschen gefährdet."
+
+        },
+        {
+            "Name": "Taube",
+            "Vorkommen": "Berlin",
+            "Art": "Laubbaum",
+            "Lebensdauer":"Bis zu 10 Jahre",
+            "WarumGefährdet": "Lebensraumverlust, Menschen",
+            "Besonderheiten": "Tauben sind bekannt für ihre Fähigkeit, sich in städtischen Umgebungen anzupassen. Sie bilden oft große Schwärme und sind in vielen Teilen der Welt verbreitet. Tauben haben eine bemerkenswerte Orientierungsfähigkeit und können große Entfernungen zurücklegen, um zu ihren Nistplätzen zurückzukehren. In städtischen Gebieten sind Tauben manchmal umstritten, da sie als Schädlinge betrachtet werden können, aber sie haben auch eine lange Geschichte der Koexistenz mit Menschen."
+
+        }
+    ]
+}
